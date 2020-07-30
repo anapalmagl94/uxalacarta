@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff984e"/>
+      <stop offset="1" stop-color="#f17e4f"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_10757" data-name="Grupo 10757" transform="translate(-1398 -1012)">
+    <circle id="Elipse_295" data-name="Elipse 295" cx="52" cy="52" r="52" transform="translate(1398 1012)" fill="url(#linear-gradient)"/>
+    <g id="import_contacts" transform="translate(578 -220)">
+      <rect id="Path" width="48" height="48" transform="translate(848 1260)" fill="rgba(0,0,0,0)"/>
+      <path id="Icon" d="M22.083,32.583h0c-2.558-1.854-6.479-2.875-11.04-2.875a25.509,25.509,0,0,0-9.535,2.108.779.779,0,0,0-.251.048A.766.766,0,0,1,1,31.913a1.065,1.065,0,0,1-1-.959V2.874C2.56,1.02,6.481,0,11.041,0s8.482,1.021,11.041,2.874C24.644,1.021,28.566,0,33.126,0a24.754,24.754,0,0,1,7.025.957,13.845,13.845,0,0,1,4.017,1.917V30.858a1.063,1.063,0,0,1-1,.958.952.952,0,0,1-.5-.095,21.1,21.1,0,0,0-9.535-2.013,25.256,25.256,0,0,0-11.042,2.875ZM33.126,3.833A25.252,25.252,0,0,0,22.083,6.708v22.04a25.277,25.277,0,0,1,11.043-2.874,24.221,24.221,0,0,1,7.025.957V4.792A24.227,24.227,0,0,0,33.126,3.833Z" transform="translate(849.916 1270.625)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

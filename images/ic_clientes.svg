@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f17e4f"/>
+      <stop offset="1" stop-color="#ff984e"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_10761" data-name="Grupo 10761" transform="translate(-908 -213)">
+    <circle id="Elipse_287" data-name="Elipse 287" cx="52" cy="52" r="52" transform="translate(908 213)" fill="url(#linear-gradient)"/>
+    <g id="domain" transform="translate(224 -3857)">
+      <rect id="Path" width="48" height="48" transform="translate(712 4098)" fill="rgba(0,0,0,0)"/>
+      <path id="Icon" d="M44,42H0V0H22V9.335H44V42ZM22,32.665v4.668H39.6V14H22v4.668h4.4v4.666H22V28h4.4v4.664Zm-8.8,0v4.664h4.4V32.669Zm-8.8,0v4.664H8.8V32.669Zm8.8-9.336V28h4.4V23.333Zm-8.8,0V28H8.8V23.333ZM13.2,14v4.668h4.4V14ZM4.4,14v4.668H8.8V14Zm8.8-9.334V9.335h4.4V4.667Zm-8.8,0V9.335H8.8V4.667Zm30.8,28H30.8V28h4.4v4.668Zm0-9.336H30.8V18.669h4.4v4.664Z" transform="translate(714 4101)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Grupo_10816" data-name="Grupo 10816" transform="translate(-324 -27)">
+    <circle id="Elipse_346" data-name="Elipse 346" cx="24" cy="24" r="24" transform="translate(324 27)" fill="#fff"/>
+    <g id="view_headline" transform="translate(162 -517)">
+      <rect id="Path" width="36" height="36" transform="translate(168 550)" fill="rgba(0,0,0,0)"/>
+      <path id="Icon" d="M24,21H0V18H24v3Zm0-6H0V12H24v3Zm0-6H0V6H24V9Zm0-6H0V0H24V3Z" transform="translate(174 558)" fill="#a0482d"/>
+    </g>
+  </g>
+</svg>

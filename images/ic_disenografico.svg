@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff984e"/>
+      <stop offset="1" stop-color="#f17e4f"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_10754" data-name="Grupo 10754" transform="translate(-1398 -572)">
+    <circle id="Elipse_289" data-name="Elipse 289" cx="52" cy="52" r="52" transform="translate(1398 572)" fill="url(#linear-gradient)"/>
+    <g id="laptop_mac" transform="translate(1224 -1858)">
+      <rect id="Path" width="49" height="49" transform="translate(202 2458)" fill="rgba(0,0,0,0)"/>
+      <path id="Icon" d="M44.917,35H4.085A4.105,4.105,0,0,1,0,30.883H8.168a4.106,4.106,0,0,1-4.083-4.117V4.117A4.1,4.1,0,0,1,8.168,0H40.834a4.1,4.1,0,0,1,4.083,4.117L44.9,26.766a4.1,4.1,0,0,1-4.063,4.117H49A4.1,4.1,0,0,1,44.917,35ZM24.5,28.824a2.059,2.059,0,1,0,2.041,2.059A2.052,2.052,0,0,0,24.5,28.824ZM8.168,4.119V26.766H40.834V4.119Z" transform="translate(202 2464)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
