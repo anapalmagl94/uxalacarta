@@ -244,6 +244,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  width: 100%;
 }
 
 .proyectos{
@@ -251,6 +252,7 @@ h2 {
   align-items: center;
   text-align: center;
   background-color: #ECECEC;
+  width: 100%;
 }
 
 .encabezados2{
@@ -262,6 +264,7 @@ h2 {
 .grid_proyectos {
   padding-top: 5%;
   padding-bottom: 5%;
+  width: 100%;
 }
 
 .header02 {
@@ -277,6 +280,8 @@ h2 {
   grid-row-gap: 0px;
   justify-content: center;
   flex-wrap: wrap;
+  margin-left: 10%;
+  width: 80%;
 }
 
 .cell2 {
@@ -288,6 +293,7 @@ h2 {
   padding-bottom: 20px;
   align-items: center;
   text-align: center;
+  width: 100%;
 }
 
 .encabezados3{
@@ -300,33 +306,39 @@ h2 {
     display:flex;
     text-align: center;
     justify-content: center;
+    width: 100%;
 }
 
-.divempresas {
-  width: 300px;
+.divempresa {
+  width: 33%;
   height: auto;
   text-align: center;
   justify-content: center;
 }
 
+.divempresa img {
+  width: 100%;
+}
+
 .contacto {
   display:flex;
   background-color: #F17E4F;
-  padding: 10px;
   text-align: center;
   justify-content: center;
+  width: 100%;
 }
 
 .contenido_contacto {
   text-align: center;
   justify-content: center;
   padding: 10px;
+  width: 100%;
 }
 
 .izquierda {
   text-align:left;
   padding: 10px;
-  margin-right: 200px;
+  width: 65%;
 }
 
 h4 {
@@ -464,25 +476,29 @@ a:link, a:visited, a:active {
 
 footer {
   background-color: #A0482D;
-  height: 150px;;
-
 }
 
 h6 {
-color: white;
-font-size: 16px;
+  color: white;
+  font-size: 16px;
+  padding-left: 5%;
 }
 
 .contenido_footer{
-  padding: 20px;
-  padding-left: 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
 }
 
 .socialmedia {
-  padding: 20px;
+  text-align: right;
+  padding-right: 5%;
+  width: 100%;
+}
+
+.encabezados04 {
+  width: 80%;
 }
 
 .socialmedia img{
