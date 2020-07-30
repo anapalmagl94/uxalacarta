@@ -169,7 +169,7 @@
 
     #grid-col {
         display: grid;
-        grid-template-columns: repeat(1, 90%);
+        grid-template-columns: repeat(1, 100%);
         grid-column-gap: 25px;
         grid-row-gap: 25px;
         justify-content: center;
@@ -249,12 +249,15 @@
         padding: 10px;
         text-align: center;
         justify-content: center;
+        width: calc(100% - 20px);
     }
 
     .izquierda {
         text-align: center; 
         padding: 10px; 
         margin-right: 0px;
+        width: 90%;
+        margin-left: 2%;
     }
 
     .personas {
@@ -268,6 +271,14 @@
         height: auto;
         padding-top: 5%;
         padding-bottom: 5%;
+    }
+
+    .divempresa {
+        height: auto;
+        margin-left: 5%;
+        text-align: center;
+        justify-content: center;
+        width: 90%;
     }
 
     h4 {
@@ -293,6 +304,8 @@
         background-color: white;
         border-radius: 10px;
         height: auto;
+        width: 90%;
+        margin-left: 5%;
     }
 
     h3.redes {
@@ -346,6 +359,12 @@
         width: 100%;
     }
 
+    .socialmedia {
+      text-align: right;
+      width: 40%;
+    }
+
+
     footer {
         background-color: #A0482D;
         height: auto;
@@ -353,10 +372,16 @@
 
     .contenido_footer {
         padding: 10px;
-        padding-left: 20px;
         display: flex;
         justify-content: space-between;
         align-items: center;
+        width: calc(100% - 40px);
+    }
+
+    h6 {
+      color: white;
+      font-size: 14px;
+      padding-left: 5%;
     }
 
 }

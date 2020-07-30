@@ -16,7 +16,7 @@ body {cursor: pointer}
   left: 0;
   margin: auto;
   width: 34px;
-  height: 200px;
+  height: 35%;
 }
 
 .mousey {
@@ -49,10 +49,11 @@ body {cursor: pointer}
 nav {
   display: flex;
   background-color: #F17E4F;
-  padding: 10px;
+  padding: 30px 10px 10px 10px;
   color: white;
   justify-content: space-between;
   align-items: center;
+  width: calc( 100% - 20px);
 }
 
 #chkToggle:checked + ul.main-nav {
@@ -61,7 +62,6 @@ nav {
 
 .main-nav {
   display: flex;
-  margin-right: 30px;
   flex-direction: row;
   justify-content: flex-end;
 }
@@ -77,16 +77,18 @@ nav {
 
 nav ul{
   display:flex;
-  padding-right: 60px;
+  padding-right: 30px;
+  padding-left: 0px;
 }
 
 nav li {
-  padding-left: 30px;
+  padding-left: 1%;
   list-style: none;
 }
 
 nav li a {
   color: white;
+  padding: 10px;
   text-decoration: none;
 }
 
@@ -108,7 +110,7 @@ nav li img:hover{
 }
 
 .image_brand {
-  padding: 30px;
+  padding: 0px 0px 0px 30px;
 }
 
 .menu-list {
@@ -211,18 +213,20 @@ h1 {
 
 #grid-col {
   display: grid;
-  grid-template-columns: repeat(3,300px);
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-column-gap: 25px;
   grid-row-gap: 25px;
   justify-content: center;
   padding-bottom: 40px;
   flex-wrap: wrap;
+  margin-left: 10%;
+  width: 80%;
 }
 
 .cell {
-    background-color: #ECECEC;
-    padding: 20px;
-    border-radius: 10px;
+  background-color: #ECECEC;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 p {
@@ -275,7 +279,7 @@ h2 {
 
 #grid-col2 {
   display: grid;
-  grid-template-columns: repeat(3,400px);
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   justify-content: center;
@@ -285,8 +289,13 @@ h2 {
 }
 
 .cell2 {
-    background-color: #ECECEC;
+  background-color: #ECECEC;
 }
+
+.cell2 img{
+  width: 100%;
+}
+    
 
 .clientes{
   padding-top: 20px;
@@ -493,7 +502,6 @@ h6 {
 
 .socialmedia {
   text-align: right;
-  padding-right: 5%;
   width: 100%;
 }
 
@@ -502,6 +510,7 @@ h6 {
 }
 
 .socialmedia img{
+  margin-right: 5%;
   width: 24px;
   height: 24px;
 }
